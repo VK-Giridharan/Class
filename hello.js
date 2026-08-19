@@ -16,4 +16,7 @@ console.log('hello');
 catch(error) {
     console.log('An error caught'); 
     console.log('Error message: ' + error);  
+
+
+    
 }
